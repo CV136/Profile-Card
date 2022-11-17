@@ -1,0 +1,31 @@
+.card {
+    width: 75%;
+    background-color: aquamarine;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.profilepic {
+    background-color: lightcoral;
+    align-self: flex-start;
+    width: 100%;
+}
+.about {
+    background-color: lightpink;
+    width: 80%;
+    align-self: center;
+}
+
+.stats {
+    background-color: lightgreen;
+    width: 20%;
+    font-size: xx-large;
+}
+.about img {
+    max-width: 100%;
+    height: auto;
+} /*pour réduire les icônes?*/
+.buttons img {
+    width: 20%;
+    height: 20%;
+}
