@@ -1,5 +1,5 @@
 .card {
-    background-color: #e6e6ff;
+    background-color: #e6e6ff; /*pour mieux situer les différents éléments, pas pour le rendu final*/
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -21,7 +21,8 @@
 .stats {
     background-color: #ddffcc;
     font-size: xxx-large;
-    width: 10%;
+    width: 20%;
+    padding: 30px;
 }
 .icons img {
     width: 20px;
