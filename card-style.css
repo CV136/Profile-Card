@@ -1,25 +1,27 @@
 .card {
-    width: 75%;
-    background-color: aquamarine;
+    background-color: #e6e6ff;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
 }
 .profilepic {
-    background-color: lightcoral;
+    background-color: #fec;
     align-self: flex-start;
     width: 100%;
 }
 .about {
-    background-color: lightpink;
-    width: 80%;
+    background-color: #ffe6fb;
+    width: 60%;
     align-self: center;
+    font-size: xx-large;
+    padding: 50px;
+    
 }
 
 .stats {
-    background-color: lightgreen;
-    width: 20%;
-    font-size: xx-large;
+    background-color: #ddffcc;
+    font-size: xxx-large;
+    width: 10%;
 }
 .icons img {
     width: 20px;
