@@ -33,3 +33,7 @@
     width: 10%;
     height: auto;
 }
+
+div {
+    box-sizing: border-box;
+}
